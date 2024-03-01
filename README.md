@@ -2,7 +2,7 @@
 
 #### 注：本项目为国家级大学生创新创业训练计划项目，由中国海洋大学曾雪迎副教授指导，团队成员共有五人。队长：李璇，队员：朱甲文 宋晓菲 孙菊颐 王静。
 
-#### 项目报告：https://github.com/andone-07/EMINCA-physiologic-variation-correction-based-on-mathematical-method-and-MLP/blob/master/%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%BA%B7%E6%88%90%E4%BA%BA%E8%B6%85%E5%A3%B0%E5%BF%83%E5%8A%A8%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E7%94%9F%E7%90%86%E6%80%A7%E5%8F%98%E5%BC%82%E7%9F%AB%E6%AD%A3%E7%9A%84%E6%95%B0%E5%AD%A6%E6%96%B9%E6%B3%95.pdf
+#### 项目报告：[中国健康成人超声心动图测量值生理性变异校正的数学方法.pdf](https://github.com/andone-07/EMINCA-physiologic-variation-correction-based-on-mathematical-method-and-MLP/blob/master/%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%BA%B7%E6%88%90%E4%BA%BA%E8%B6%85%E5%A3%B0%E5%BF%83%E5%8A%A8%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E7%94%9F%E7%90%86%E6%80%A7%E5%8F%98%E5%BC%82%E7%9F%AB%E6%AD%A3%E7%9A%84%E6%95%B0%E5%AD%A6%E6%96%B9%E6%B3%95.pdf)
 —————————————————————————————————————————————
 
 ### 项目介绍
